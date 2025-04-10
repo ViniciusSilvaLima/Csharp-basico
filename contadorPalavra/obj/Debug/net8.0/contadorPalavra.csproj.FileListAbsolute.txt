@@ -1,0 +1,15 @@
+C:\Users\vinicius.slima\Desktop\C#\contadorPalavra\bin\Debug\net8.0\contadorPalavra.exe
+C:\Users\vinicius.slima\Desktop\C#\contadorPalavra\bin\Debug\net8.0\contadorPalavra.deps.json
+C:\Users\vinicius.slima\Desktop\C#\contadorPalavra\bin\Debug\net8.0\contadorPalavra.runtimeconfig.json
+C:\Users\vinicius.slima\Desktop\C#\contadorPalavra\bin\Debug\net8.0\contadorPalavra.dll
+C:\Users\vinicius.slima\Desktop\C#\contadorPalavra\bin\Debug\net8.0\contadorPalavra.pdb
+C:\Users\vinicius.slima\Desktop\C#\contadorPalavra\obj\Debug\net8.0\contadorPalavra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinicius.slima\Desktop\C#\contadorPalavra\obj\Debug\net8.0\contadorPalavra.AssemblyInfoInputs.cache
+C:\Users\vinicius.slima\Desktop\C#\contadorPalavra\obj\Debug\net8.0\contadorPalavra.AssemblyInfo.cs
+C:\Users\vinicius.slima\Desktop\C#\contadorPalavra\obj\Debug\net8.0\contadorPalavra.csproj.CoreCompileInputs.cache
+C:\Users\vinicius.slima\Desktop\C#\contadorPalavra\obj\Debug\net8.0\contadorPalavra.sourcelink.json
+C:\Users\vinicius.slima\Desktop\C#\contadorPalavra\obj\Debug\net8.0\contadorPalavra.dll
+C:\Users\vinicius.slima\Desktop\C#\contadorPalavra\obj\Debug\net8.0\refint\contadorPalavra.dll
+C:\Users\vinicius.slima\Desktop\C#\contadorPalavra\obj\Debug\net8.0\contadorPalavra.pdb
+C:\Users\vinicius.slima\Desktop\C#\contadorPalavra\obj\Debug\net8.0\contadorPalavra.genruntimeconfig.cache
+C:\Users\vinicius.slima\Desktop\C#\contadorPalavra\obj\Debug\net8.0\ref\contadorPalavra.dll
