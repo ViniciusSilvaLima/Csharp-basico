@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\vinicius.slima\\Desktop\\C#\\relogioDigital\\relogioDigital.csproj": {}
+    "C:\\Users\\vinicius.slima\\Desktop\\C#\\relogiodigital\\relogioDigital.csproj": {}
   },
   "projects": {
-    "C:\\Users\\vinicius.slima\\Desktop\\C#\\relogioDigital\\relogioDigital.csproj": {
+    "C:\\Users\\vinicius.slima\\Desktop\\C#\\relogiodigital\\relogioDigital.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vinicius.slima\\Desktop\\C#\\relogioDigital\\relogioDigital.csproj",
+        "projectUniqueName": "C:\\Users\\vinicius.slima\\Desktop\\C#\\relogiodigital\\relogioDigital.csproj",
         "projectName": "relogioDigital",
-        "projectPath": "C:\\Users\\vinicius.slima\\Desktop\\C#\\relogioDigital\\relogioDigital.csproj",
+        "projectPath": "C:\\Users\\vinicius.slima\\Desktop\\C#\\relogiodigital\\relogioDigital.csproj",
         "packagesPath": "C:\\Users\\vinicius.slima\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vinicius.slima\\Desktop\\C#\\relogioDigital\\obj\\",
+        "outputPath": "C:\\Users\\vinicius.slima\\Desktop\\C#\\relogiodigital\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\vinicius.slima\\AppData\\Roaming\\NuGet\\NuGet.Config"
