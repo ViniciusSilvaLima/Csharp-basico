@@ -1,0 +1,15 @@
+C:\Users\vinicius.slima\Desktop\C#\conversoTemperatura\bin\Debug\net8.0\conversoTemperatura.exe
+C:\Users\vinicius.slima\Desktop\C#\conversoTemperatura\bin\Debug\net8.0\conversoTemperatura.deps.json
+C:\Users\vinicius.slima\Desktop\C#\conversoTemperatura\bin\Debug\net8.0\conversoTemperatura.runtimeconfig.json
+C:\Users\vinicius.slima\Desktop\C#\conversoTemperatura\bin\Debug\net8.0\conversoTemperatura.dll
+C:\Users\vinicius.slima\Desktop\C#\conversoTemperatura\bin\Debug\net8.0\conversoTemperatura.pdb
+C:\Users\vinicius.slima\Desktop\C#\conversoTemperatura\obj\Debug\net8.0\conversoTemperatura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinicius.slima\Desktop\C#\conversoTemperatura\obj\Debug\net8.0\conversoTemperatura.AssemblyInfoInputs.cache
+C:\Users\vinicius.slima\Desktop\C#\conversoTemperatura\obj\Debug\net8.0\conversoTemperatura.AssemblyInfo.cs
+C:\Users\vinicius.slima\Desktop\C#\conversoTemperatura\obj\Debug\net8.0\conversoTemperatura.csproj.CoreCompileInputs.cache
+C:\Users\vinicius.slima\Desktop\C#\conversoTemperatura\obj\Debug\net8.0\conversoTemperatura.sourcelink.json
+C:\Users\vinicius.slima\Desktop\C#\conversoTemperatura\obj\Debug\net8.0\conversoTemperatura.dll
+C:\Users\vinicius.slima\Desktop\C#\conversoTemperatura\obj\Debug\net8.0\refint\conversoTemperatura.dll
+C:\Users\vinicius.slima\Desktop\C#\conversoTemperatura\obj\Debug\net8.0\conversoTemperatura.pdb
+C:\Users\vinicius.slima\Desktop\C#\conversoTemperatura\obj\Debug\net8.0\conversoTemperatura.genruntimeconfig.cache
+C:\Users\vinicius.slima\Desktop\C#\conversoTemperatura\obj\Debug\net8.0\ref\conversoTemperatura.dll
