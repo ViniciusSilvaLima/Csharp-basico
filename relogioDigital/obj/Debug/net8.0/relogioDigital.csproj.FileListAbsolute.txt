@@ -1,0 +1,15 @@
+C:\Users\vinicius.slima\Desktop\C#\relogioDigital\bin\Debug\net8.0\relogioDigital.exe
+C:\Users\vinicius.slima\Desktop\C#\relogioDigital\bin\Debug\net8.0\relogioDigital.deps.json
+C:\Users\vinicius.slima\Desktop\C#\relogioDigital\bin\Debug\net8.0\relogioDigital.runtimeconfig.json
+C:\Users\vinicius.slima\Desktop\C#\relogioDigital\bin\Debug\net8.0\relogioDigital.dll
+C:\Users\vinicius.slima\Desktop\C#\relogioDigital\bin\Debug\net8.0\relogioDigital.pdb
+C:\Users\vinicius.slima\Desktop\C#\relogioDigital\obj\Debug\net8.0\relogioDigital.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinicius.slima\Desktop\C#\relogioDigital\obj\Debug\net8.0\relogioDigital.AssemblyInfoInputs.cache
+C:\Users\vinicius.slima\Desktop\C#\relogioDigital\obj\Debug\net8.0\relogioDigital.AssemblyInfo.cs
+C:\Users\vinicius.slima\Desktop\C#\relogioDigital\obj\Debug\net8.0\relogioDigital.csproj.CoreCompileInputs.cache
+C:\Users\vinicius.slima\Desktop\C#\relogioDigital\obj\Debug\net8.0\relogioDigital.sourcelink.json
+C:\Users\vinicius.slima\Desktop\C#\relogioDigital\obj\Debug\net8.0\relogioDigital.dll
+C:\Users\vinicius.slima\Desktop\C#\relogioDigital\obj\Debug\net8.0\refint\relogioDigital.dll
+C:\Users\vinicius.slima\Desktop\C#\relogioDigital\obj\Debug\net8.0\relogioDigital.pdb
+C:\Users\vinicius.slima\Desktop\C#\relogioDigital\obj\Debug\net8.0\relogioDigital.genruntimeconfig.cache
+C:\Users\vinicius.slima\Desktop\C#\relogioDigital\obj\Debug\net8.0\ref\relogioDigital.dll
